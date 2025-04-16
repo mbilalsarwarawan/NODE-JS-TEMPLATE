@@ -12,7 +12,6 @@ This is a simple template project for building web applications using Node.js an
 ## Prerequisites
 
 - [Node.js](https://nodejs.org/) (v14 or higher)
-- [npm](https://www.npmjs.com/) or [yarn](https://yarnpkg.com/)
 
 ## Installation
 
